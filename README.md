@@ -11,11 +11,11 @@
 
 ### 🔎 About Me
 
-Results-driven **Penetration Tester** and **Cybersecurity Professional** based in Surabaya, Indonesia. I've conducted **12+ penetration tests** across web, mobile, network, and API environments for banking, finance, and enterprise clients using **OWASP** and **PTES** methodologies — identifying and exploiting **50+ critical vulnerabilities** and uncovering weaknesses that automated tools missed in over 75% of engagements.
+Results-driven **Penetration Tester** and **Cybersecurity Professional** based in Surabaya, Indonesia. I've conducted **12+ penetration tests** across web, mobile, network, and API environments for banking, finance, and enterprise clients using **OWASP** and **PTES** methodologies, identifying and exploiting **50+ critical vulnerabilities** and uncovering weaknesses that automated tools missed in over 75% of engagements.
 
 - 🛡️ Currently a **Penetration Tester** @ PT Digital Solusi Grup (Jakarta)
 - 👀 Background as an **L1 SOC Analyst** (SIEM, IDS/IPS, XDR, NDR) and **System Administrator**
-- 🌱 Always learning — red teaming, cloud security, and advanced offensive techniques
+- 🌱 Always learning: red teaming, cloud security, and advanced offensive techniques
 - 🤝 Open to collaborating on security-related projects
 - 📫 Reach me: **linkedin.com/in/stevesebastian7**
 - 😄 *Try Harder.*
